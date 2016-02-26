@@ -1,0 +1,546 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.wrapper
+{
+    width: 909px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+/* Header*/
+header
+{
+    margin: 17px 0 0 0;
+}
+.nomber_phones a
+{
+    float: left;
+}
+.nomber_phones
+{
+    width: 300px;
+    color:#7b8a94;
+    font: 16px lucida sans unicode,Arial, sans-serif;
+    position: relative;
+    margin: 6px 0 0 7px;
+    float: left;
+}
+
+
+.navi
+{
+    width: 77px;
+    height: 21px;
+    float: right;
+    margin: 2px 6px 0 0;
+    border: 1px solid #c1c8cb;
+    border-radius: 20px;
+}
+.navi a
+{
+    margin-left: 7px;
+}
+
+
+.avtoriz
+{
+    width: 475px;
+    padding: 4px 10px 4px 8px;
+    position: relative;
+    background: linear-gradient(to bottom, #1d6181, #0d365a);
+    margin: 0 100px 0 314px;
+    font: 11px  lucida sans unicode,Arial, sans-serif;
+    border-radius: 8px;
+}
+.avtoriz form
+{
+    display: inline-block;
+    height: 20px;
+}
+.avtoriz form input[type="text"]
+{
+    height: 17px;
+    width: 110px;
+    border: none;
+    padding-left: 5px;
+}
+.avtoriz form input[type="password"]
+{
+    height: 17px;
+    width: 110px;
+    border: none;
+    padding-left: 5px;
+}
+.avtoriz .enter
+{
+    padding-left: 5px;
+    color: white;
+    font: 10px lucida sans unicode,Arial, sans-serif;
+    text-decoration: none;
+}
+.avtoriz .check_in
+{
+    border-left: 1px solid #d3d9df;
+    padding-left: 5px;
+    color: white;
+    font: 10px lucida sans unicode,Arial, sans-serif;
+    text-decoration: none;
+}
+.avtoriz .Forgot_your_password{
+    border-left: 1px solid #d3d9df;
+    padding-left: 5px;
+    padding-right: 0;
+    font: 10px lucida sans unicode,Arial, sans-serif;
+    color: #a7acb0;
+    margin-left: 1px;
+}
+.banner
+{
+    width: 909px;
+    height: 237px;
+    background: url("image/heder.png") no-repeat;
+    position: relative;
+    margin: 10px 0 6px;
+}
+
+
+nav
+{
+    width: 909px;
+    height: 35px;
+    border: 1px solid #2c345a;
+    background: linear-gradient(to bottom, #464d54,#040405);
+    border-radius: 5px;
+}
+nav ul
+{
+    margin-left: 130px;
+    padding-top: 3px;
+}
+nav ul li
+{
+    display: inline-block;
+}
+nav a
+{
+    text-decoration: none;
+    color: #aab4b8;
+    font: 16px lucida sans unicode,Arial, sans-serif;
+    padding: 0 14px 0 16px;
+}
+nav ul li a:hover{
+    color: white;
+    background: linear-gradient(to bottom,#1f6787,#0c3357);
+    border-radius: 26px;
+}
+
+
+
+.koshyk
+{
+    color: #73797d;
+    float: right;
+    position: relative;
+    margin-right: 15px;
+    font: 10px lucida sans unicode,Arial, sans-serif;
+    padding-top: 5px;
+}
+.icon_koshyk
+{
+    float: left;
+    padding-right: 2px;
+}
+
+
+.product
+{
+    margin: 0 13px 0 5px;
+}
+
+
+.blue
+{
+    margin-left: 9px;
+    color: #0d5a8f;
+    font: 10px lucida sans unicode,Arial, sans-serif;
+}
+
+
+/*Content*/
+
+.find
+{
+    margin: 12px 0 15px;
+    width: 909px;
+    height: 135px;
+}
+.nav_lft
+{
+    width: 415px;
+    height: 135px;
+    border: 1px solid black;
+    border-radius: 5px;
+    float: left;
+
+}
+.nav_center
+{
+    width: 195px;
+    height: 135px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 9px;
+}
+.nav_right
+{
+    width: 270px;
+    height: 135px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    float: right;
+}
+
+
+.content
+{
+    margin: 0;
+    padding: 0;
+}
+.menu_katalog
+{
+    width: 183px;
+    float: left;
+}
+.cat_prod a
+{
+    float: left;
+}
+.cat_prod
+{
+    margin: 3px 0 11px 0;
+    padding: 11px 2px 5px 6px;
+    font: 14px lucida sans unicode,Arial, sans-serif;
+    color: #114165;
+    position: relative;
+    border: 1px solid #8b979c;
+    border-radius: 25px;
+    width: 173px;
+}
+.circle {
+    margin: 16px 24px 10px 0;
+    font: 16px lucida sans unicode, Arial, sans-serif;
+    color: #114165;
+    position: relative;
+    border: 1px solid #8b979c;
+    border-radius: 25px;
+}
+
+.menu_katalog li
+{
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+.menu_katalog a
+{
+    position: relative;
+    color: #465961;
+    font: 12px lucida sans unicode,Arial, sans-serif;
+}
+.menu_katalog a:hover
+{
+    color: #465961;
+    font: bold 12px lucida sans unicode,Arial, sans-serif;
+}
+.menu_katalog ul li
+{
+    margin: 9px 0 0 36px;
+}
+
+
+.shina
+{
+    font: 16px lucida sans unicode, Arial, sans-serif;
+    color: #114165;
+    position: relative;
+    border: 1px solid #8b979c;
+    border-radius: 25px;
+    height: 29px;
+    width:150px;
+    padding: 3px 6px 0px 6px;
+    margin:5px 0 5px 0;
+}
+.icons
+{
+    float: left;
+
+}
+
+
+.brends
+{
+    position: relative;
+    margin: 1px 26px 2px 0;
+    padding-left: 30px;
+    padding-top: 6px;
+    font: 14px lucida sans unicode,Arial, sans-serif;
+}
+.menu_katalog a:hover
+{
+    color: #465961;
+    font: bold 12px lucida sans unicode,Arial, sans-serif;
+}
+
+
+
+.tovar
+{
+    margin: 0 192px 0 192px;
+    height:607px ;
+    padding: 19px 27px 0 22px;
+    background: linear-gradient(to bottom, #e4e7e8, #94a7b0);
+    border-radius: 2px;
+}
+.goodyer_one
+{
+    margin:0 28px 21px 0;
+    width: 140px;
+    float: left;
+    display: inline-block;
+}
+.name
+{
+    color: #206988;
+    font: bold 14px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.model
+{
+    color: #1f2528;
+    font: 12px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.price
+{
+    color: #114165;
+    font: bold 14px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.nokian_one
+{
+
+
+    width: 140px;
+    margin:0 28px 21px 0;
+    display: inline-block;
+    float: left;
+}
+.hankook_one
+{
+
+    margin:0 0 21px 0;
+    width: 140px;
+    display: inline-block;
+}
+.goodyer_two
+{
+    margin:0 28px 21px 0;
+    width: 140px;
+    float: left;
+    display: inline-block;
+}
+.name
+{
+    color: #206988;
+    font: bold 14px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.model
+{
+    color: #1f2528;
+    font: 12px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.price
+{
+    color: #114165;
+    font: bold 14px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.nokian_two
+{
+
+
+    width: 140px;
+    margin:0 28px 21px 0;
+    display: inline-block;
+    float: left;
+}
+.hankook_two
+{
+
+    margin:0 0 21px 0;
+    width: 140px;
+    display: inline-block;
+}
+.goodyer_three
+{
+    margin:0 28px 0 0;
+    width: 140px;
+    float: left;
+    display: inline-block;
+}
+.name
+{
+    color: #206988;
+    font: bold 14px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.model
+{
+    color: #1f2528;
+    font: 12px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.model
+{
+    line-height: 10px;
+}
+.price
+{
+    color: #114165;
+    font: bold 14px lucida sans unicode,Arial, sans-serif;
+    text-align: center;
+}
+.nokian_three
+{
+
+
+    width: 140px;
+    margin:0 28px 0 0;
+    display: inline-block;
+    float: left;
+}
+.hankook_three
+{
+
+    margin:0 0 0 0;
+    width: 140px;
+    display: inline-block;
+}
+
+
+.brend
+{
+    width: 183px;
+    float: right;
+}
+
+.shina_2
+{
+    font: 16px lucida sans unicode, Arial, sans-serif;
+    color: #114165;
+    position: relative;
+    border: 1px solid #8b979c;
+    border-radius: 25px;
+    height: 29px;
+    width:150px;
+    padding: 3px 6px 0px 6px;
+    margin:5px 0 5px 0;
+}
+.icons_2
+{
+    float: left;
+
+}
+.brend2 a
+{
+    float: left;
+}
+.brend2
+{
+    margin: 3px 0 11px 0;
+    padding: 11px 2px 5px 6px;
+    font: 16px lucida sans unicode,Arial, sans-serif;
+    color: #114165;
+    position: relative;
+    border: 1px solid #8b979c;
+    border-radius: 25px;
+    width: 173px;
+}
+.brend form p
+{
+    margin: 1px 31px 2px 15px;
+    position: relative;
+    padding-left: 4px;
+    border: 1px solid #8b979c;
+    border-radius: 25px;
+    color: #0c3256;
+    font: 16px lucida sans unicode,Arial, sans-serif;
+}
+.brend form label
+{
+    margin-right: 70px;
+    color: #465961;
+    font: 13px "Lucida Sans Unicode", Arial, sans-serif;
+}
+.brend form input
+{
+    margin: 12px 0 0 25px;
+    padding: 0 14px;
+    border-radius: 25px;
+    background: linear-gradient(to bottom, #1f6787, #0c3357);
+    color: #e5e9ea;
+    font: 11px/25px Arial, sans-serif;
+}
+.brend form input[type="checkbox"]{
+    margin: 0 7px 11px 26px;
+}
+.brand_logo
+{
+    width: 680px;
+    margin: 32px auto 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+
+
+/*Footer*/
+footer{
+    height: 100px;
+    border: 1px solid #242c3e;
+    background: #213a4d;
+}
+footer ul
+{
+    width: 316px;
+    margin: 12px auto 13px;
+
+}
+footer li
+{
+    display: inline-block;
+    border-right: 1px solid #6a7882;
+    padding-right: 11px;
+    padding-left: 11px;
+}
+footer a
+{
+    text-decoration: none;
+    color: #bec6c9;
+    font: 12px Arial, sans-serif;
+}
+footer li a:hover
+{
+    color: #52abcb;
+}
+footer p
+{
+    text-align: center;
+    color: #7f4740;
+    font: 10px Arial, sans-serif;
+}
